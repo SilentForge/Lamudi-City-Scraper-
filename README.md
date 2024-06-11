@@ -1,4 +1,27 @@
 # City Scraper Project
+# Lamudi Scraper
+
+## Important Notice
+
+This project has transitioned to a monetized service on Apify. The full-featured version with unlimited scraping capabilities is now available exclusively on Apify.
+
+For full access, visit the [Apify Actor]([https://console.apify.com/actors/qRbb45JvqeJUKBaw4](https://apify.com/pixelperfekt/lamudi-ph-real-estate-listings-scraper)).
+
+## Features
+
+The open-source version provides a limited preview of the capabilities:
+- Scrapes basic property information from Lamudi.
+- Limited to a few sample listings.
+
+For full functionality, including unlimited scraping and advanced features, please use the Apify service.
+
+## Why the Change?
+
+We have decided to transition this project to a monetized service to ensure continuous improvements, dedicated support, and to cover the ongoing costs of development and maintenance.
+
+## Contact
+
+For any inquiries or support, please contact [pixelperfekt@proton.me].
 
 ## Overview
 **City Scraper** is an advanced web scraping tool designed to extract real estate listings from [Lamudi](https://www.lamudi.com.ph/house/rent/). It leverages Python with Selenium and BeautifulSoup for scraping, and Tkinter for its graphical user interface (GUI). This script efficiently collects data on rental properties across various cities and saves the information into CSV files for analysis, demonstrating a practical application of web scraping for real-world data collection challenges.
