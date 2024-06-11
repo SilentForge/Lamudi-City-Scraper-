@@ -5,7 +5,7 @@
 
 This project has transitioned to a monetized service on Apify. The full-featured version with unlimited scraping capabilities is now available exclusively on Apify.
 
-For full access, visit the [Apify Actor]([https://console.apify.com/actors/qRbb45JvqeJUKBaw4](https://apify.com/pixelperfekt/lamudi-ph-real-estate-listings-scraper).
+For full access, visit the [Apify Actor](https://apify.com/pixelperfekt/lamudi-ph-real-estate-listings-scraper).
 
 ## Features
 
